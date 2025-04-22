@@ -20,7 +20,3 @@ west init -m https://github.com/D-Veda/Keyboard --mr main .
 west update
 ```
 
-# Tutorials
-
-[Guide](./docs/guide.md)
-
