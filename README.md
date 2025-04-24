@@ -1,6 +1,7 @@
 # Keyboard
 
-![Static Badge](https://img.shields.io/badge/Dv2212-blue)
+![Static Badge](https://img.shields.io/badge/ID-Dv2212-blue) ![Static Badge](https://img.shields.io/badge/Status-Developing-red)
+
 
 A simple keyboard designed by individuals.
 
