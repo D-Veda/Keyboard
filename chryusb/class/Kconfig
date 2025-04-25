@@ -1,0 +1,5 @@
+menu "CherryUSB Class"
+
+rsource "hid/Kconfig"
+
+endmenu
