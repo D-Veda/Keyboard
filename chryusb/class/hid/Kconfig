@@ -1,4 +1,0 @@
-config CHERRYUSB_CLASS_HID
-	bool "CherryUSB HID Class"
-	help
-	  This option enables the 'HID' library

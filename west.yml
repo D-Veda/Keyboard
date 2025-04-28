@@ -12,6 +12,10 @@ manifest:
         name-allowlist:
           - cmsis
           - hal_nxp
+    - name: CherryUSB
+      remote: D-Veda
+      revision: master
+      path: modules/CherryUSB
   self:
     path: application
   version: "1.2"
